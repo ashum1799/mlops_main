@@ -1,7 +1,7 @@
 Wafer
 ==============================
 
-its a ai project
+its the wafer project
 
 Project Organization
 ------------
